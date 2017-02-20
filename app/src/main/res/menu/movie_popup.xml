@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Sinopsis" android:id="@+id/overviewItem"></item>
+    <item android:title="Créditos" android:id="@+id/creditsItem"></item>
+    <item android:title="Valoraciones" android:id="@+id/opinionsItem"></item>
+</menu>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/filtrarIT"
+        android:title="Filtrar"
+        app:showAsAction="never"
+        ></item>
+    <item
+        android:id="@+id/topRatedIT"
+        android:title="Mejor valoradas"
+        app:showAsAction="never"
+        ></item>
+
+    <item
+        android:id="@+id/buscarIT"
+        android:title="Buscar"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_action_name"
+        android:visible="false"
+        android:enabled="false"
+        ></item>
+    <item
+        android:id="@+id/popularesIT"
+        android:title="Populares"
+        app:showAsAction="never"
+        ></item>
+    <item
+        android:id="@+id/espaniolasIT"
+        android:title="Españolas"
+        app:showAsAction="never"
+        ></item>
+</menu>
